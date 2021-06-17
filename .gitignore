@@ -1,2 +1,4 @@
-.DS*
+.DS_Store
 
+BJ/C/*
+!BJ/C/*.c
